@@ -18,7 +18,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/django-blog.git
+git clone https://github.com/Rajivs98/Blog_app.git
 
 cd blog_test_project
 Create and activate a virtual environment:
