@@ -20,7 +20,9 @@ Clone the repository:
 
 git clone https://github.com/Rajivs98/Blog_app.git
 
+cd Blog_app
 cd blog_test_project
+
 Create and activate a virtual environment:
 
 bash
